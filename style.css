@@ -1,0 +1,11 @@
+.wrapper {
+    display: grid;
+    grid-gap:5px;
+    grid-template-columns: repeat(5, 150px);
+    justify-content: center;
+    justify-items: center;
+    padding: 30px;
+  }
+.c-card{
+
+  }
